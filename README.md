@@ -1,5 +1,8 @@
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
+Live demo: https://ordinary-hat.surge.sh/
+Contract: https://kovan.etherscan.io/address/0xFD2b19DB0f19b89Da0C70B3cc3d33bD8854e04Cb
+
 ## 🚩 Challenge 0: 🎟 Simple NFT Example 🤓
 
 🎫 Create a simple NFT to learn basics of 🏗 scaffold-eth. You'll use [👷‍♀️ HardHat](https://hardhat.org/getting-started/) to compile and deploy smart contracts. Then, you'll use a template React app full of important Ethereum components and hooks. Finally, you'll deploy an NFT to a public network to share with friends! 🚀
